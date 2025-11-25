@@ -6,7 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="121">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/mer56626717)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/%C3%B6mermurat/)
+[![Linkedin: anmol](https://img.shields.io/badge/-Omer_Murat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/%C3%B6mermurat/)
 ![GitHub followers](https://img.shields.io/github/followers/omer-murat?label=Follow&style=social)
 
 👇 To contact me, please mailto **omer4murat@gmail.com**
