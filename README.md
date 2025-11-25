@@ -24,7 +24,7 @@ const ÖmerMurat = {
     askMeAbout: ["C++", "Python", "AWS", "Flutter"],
     technologies: {
         frontEnd: {
-            markup: ["javascript"],
+            markup: ["javascript ", "CSS"],
         },
         backEnd: {
             languages: ["C++", "Python"],
