@@ -16,11 +16,11 @@
 ```javascript
 const ÖmerMurat = {
     pronouns: "He" | "Him",
-    code: ["C++", "Python", "HTML", "Flutter", "AWS", "Bash"],
-    askMeAbout: ["C++", "Python", "HTML", "AWS", "Flutter"],
+    code: ["C++", "Python", "javascript", "Flutter", "AWS", "Bash"],
+    askMeAbout: ["C++", "Python", "AWS", "Flutter"],
     technologies: {
         frontEnd: {
-            markup: ["HTML"],
+            markup: ["javascript"],
         },
         backEnd: {
             languages: ["C++", "Python"],
@@ -43,7 +43,6 @@ const ÖmerMurat = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-murat&show_icons=true&locale=en&layout=compact" alt="omer-murat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-murat&show_icons=true&locale=en" alt="omer-murat" /></p>
