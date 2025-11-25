@@ -1,66 +1,42 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHjSY7FC6qw7A/profile-displaybackgroundimage-shrink_350_1400/B4DZdbUXNAHMAc-/0/1749583757410?e=1765411200&v=beta&t=YjoiehVaWT5_cV7AEX5j34M_iFX9i8852vGO4kA5qak)
 
-### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ömer Murat! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="121">
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/mer56626717)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/%C3%B6mermurat/)
+![GitHub followers](https://img.shields.io/github/followers/omer-murat?label=Follow&style=social)
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+👇 To contact me, please email **omer4murat@gmail.com**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const ÖmerMurat = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    code: ["C++", "Python", "HTML", "Flutter", "AWS", "Bash"],
+    askMeAbout: ["C++", "Python", "HTML", "AWS", "Flutter"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+            markup: ["HTML"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            languages: ["C++", "Python"],
         },
         mobileApp: {
             crossPlatform: ["Flutter"],
         },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        devOps: [
+            "Bash"
+        ],
         cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+            platform: ["AWS"]
         },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+    
+    currentFocus: "C++ üzerine",
 };
 ```
 
@@ -68,79 +44,11 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C062%20hrs%2012%20mins-blue)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-murat&show_icons=true&locale=en&layout=compact" alt="omer-murat" /></p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-669-blue)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-murat&show_icons=true&locale=en" alt="omer-murat" /></p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer-murat&" alt="omer-murat" /></p>
 
-**🐱 My GitHub Data** 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omer-murat&label=Profile%20views&color=0e75b6&style=flat" alt="omer-murat" /> </p>
 
-> 📦 357.8 kB Used in GitHub's Storage 
- > 
-> 🏆 842 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1162 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-🌆 Daytime                4092 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
-🌃 Evening                3584 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌙 Night                  2418 commits        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  1529 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Wednesday                1956 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Thursday                 1212 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Friday                   1117 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Saturday                 1476 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Sunday                   2684 commits        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               6 hrs 44 mins       ███████████████████████░░   93.85 % 
-MDX                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-WebStorm                 5 hrs 22 mins       ███████████████████░░░░░░   74.77 % 
-VS Code                  1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-
-💻 Operating System: 
-Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   37.08 % 
-TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-
-
-
-
- Last Updated on 25/11/2025 00:39:37 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
