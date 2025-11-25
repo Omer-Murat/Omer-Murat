@@ -5,9 +5,13 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ömer Murat! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="121">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/mer56626717)
-[![Linkedin: anmol](https://img.shields.io/badge/-Omer_Murat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/%C3%B6mermurat/)
-![GitHub followers](https://img.shields.io/github/followers/omer-murat?label=Follow&style=social)
+<p align="left">
+<a href="https://twitter.com/mer56626717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mer56626717" height="30" width="40"></a>
+<a href="https://linkedin.com/in/ömer murat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer murat" height="30" width="40"></a>
+<a href="https://instagram.com/omr_mrt4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omr_mrt4" height="30" width="40" >
+<a target="blank"><img align="center" src="https://img.shields.io/github/followers/omer-murat?label=Follow&style=social" alt="ömer murat" height="70" width="80"></a>
+</a>
+</p>
 
 👇 To contact me, please mailto **omer4murat@gmail.com**
 
