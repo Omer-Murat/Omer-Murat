@@ -47,11 +47,8 @@ const ÖmerMurat = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-murat&show_icons=true&locale=en&layout=compact" alt="omer-murat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-murat&show_icons=true&locale=en" alt="omer-murat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omer-Murat&" alt="omer-murat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer-murat&" alt="omer-murat" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omer-murat&label=Profile%20views&color=0e75b6&style=flat" alt="omer-murat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Omer-Murat&label=Profile%20views&color=0e75b6&style=flat" alt="omer-murat" /> </p>
 
