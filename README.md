@@ -9,7 +9,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/%C3%B6mermurat/)
 ![GitHub followers](https://img.shields.io/github/followers/omer-murat?label=Follow&style=social)
 
-👇 To contact me, please email **omer4murat@gmail.com**
+👇 To contact me, please mailto **omer4murat@gmail.com**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
