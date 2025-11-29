@@ -13,7 +13,7 @@
 </a>
 </p>
 
-👇 To contact me, please mailto **omer4murat@gmail.com**
+👇 To contact me, please mailto **omer00murat@hotmail.com**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
