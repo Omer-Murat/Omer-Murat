@@ -3,10 +3,15 @@
 
 
 <div align="center">
-    <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Hello+World!;I'm+Ömer+Murat" alt="Typing SVG" />
-    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+  <img src="assets/jackmusic.gif" width="60" style="vertical-align:middle; margin-right: 10px;" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+%C3%96mer+Murat;Embedded+Systems+%26+Web;Always+improving+myself..." alt="Typing SVG" style="vertical-align:middle" />
+  </a>
+
+  <img src="jackfindance.gif" width="60" style="vertical-align:middle; margin-left: 10px;" />
 </div>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="121">
 
 <p align="left">
