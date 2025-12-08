@@ -2,7 +2,11 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHjSY7FC6qw7A/profile-displaybackgroundimage-shrink_350_1400/B4DZdbUXNAHMAc-/0/1749583757410?e=1765411200&v=beta&t=YjoiehVaWT5_cV7AEX5j34M_iFX9i8852vGO4kA5qak)
 
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ömer Murat! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<div align="center">
+    <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=700&lines=Hello+World!;I'm+Ömer+Murat" alt="Typing SVG" />
+    <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+</div>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="121">
 
 <p align="left">
