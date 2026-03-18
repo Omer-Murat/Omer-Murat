@@ -24,7 +24,7 @@
 ```javascript
 const ÖmerMurat = {
     pronouns: "He" | "Him",
-    code: ["C++", "Python", "javascript", "Flutter", "AWS", "Bash", "CSS"],
+    code: ["C++", "Python", "javascript", "Flutter", "AWS", "Bash", "CSS","C#","SQL"],
     askMeAbout: ["C++", "Python", "AWS", "Flutter"],
     technologies: {
         frontEnd: {
