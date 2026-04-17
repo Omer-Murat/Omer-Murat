@@ -17,9 +17,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="121">
 
-👇 To contact me, please mailto **omer00murat@hotmail.com**
-
 👇 If you would like to visit my website **https://omermurat.com/**
+
+👇 To contact me, please mailto **omer00murat@hotmail.com**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
